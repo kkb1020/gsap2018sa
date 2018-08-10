@@ -19,9 +19,214 @@
     },
 
     {
-        "name": "Dummy",
-        "title": "TBD",
+        "name": "SangMin Lee",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "SangMinLee.png"
+    },
+    
+    {
+        "name": "Hyeonji Kim",
+        "title": "Sales and Marketing",
+        "profile": "not yet updated",
+        "image": "hyeonji.png"
+    },
+    
+    {
+        "name": "Seonwoo Yoo",
+        "title": "Design Strategist",
+        "profile": "not yet updated",
+        "image": "SeonwooYoo.png"
+    },
+    
+    {
+        "name": "Kay Kim",
+        "title": "Customer Satisfaction Specialist",
+        "profile": "not yet updated",
+        "image": "kaykim.png"
+    },
+    
+    {
+        "name": "Minsu Kim",
+        "title": "Engineer",
+        "profile": "not yet updated",
+        "image": "MinsuKim .png"
+    },
+
+    {
+        "name": "Taewoo Kang",
+        "title": "Mechanical Engineer",
+        "profile": "not yet updated",
+        "image": "TaewooKang.png"
+    },
+    
+    {
+        "name": "Jae So",
+        "title": "Sales & Marketing",
+        "profile": "not yet updated",
+        "image": "JaeSo .png"
+    },
+    
+    {
+        "name": "HyungJin Seo",
+        "title": "SW Engineer",
+        "profile": "not yet updated",
+        "image": "HyungJinSeo .png"
+    },
+    
+    {
+        "name": "Moa Park",
+        "title": "Management",
+        "profile": "not yet updated",
+        "image": "MoaPark.png"
+    },
+    
+    {
+        "name": "Hay Hyewon Kim",
+        "title": "UX Designer",
+        "profile": "not yet updated",
+        "image": "HayHyewonKim.png"
+    },
+    
+    {
+        "name": "Sun Gi LEE",
+        "title": "Mobile Service Product Specialist",
+        "profile": "not yet updated",
+        "image": "SunGiLEE .png"
+    },
+    
+    {
+        "name": "Jihyoung Jeong",
+        "title": "Sales&Marketing",
+        "profile": "not yet updated",
+        "image": "JihyoungJeong.png"
+    },
+
+    {
+        "name": "Hana Kim",
+        "title": "Management",
+        "profile": "not yet updated",
+        "image": "HanaKim.png"
+    },
+    
+    {
+        "name": "Hochul Hwang",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "HochulHwang.png"
+    },
+    
+    {
+        "name": "HyoYoung Kim",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "HyoYoungKim.png"
+    },
+    
+    {
+        "name": "Hyunjin Jang",
+        "title": "Management",
+        "profile": "not yet updated",
+        "image": "HyunjinJang.png"
+    },
+    
+    {
+        "name": "Boram Lee",
+        "title": "UX designer",
+        "profile": "not yet updated",
+        "image": "BoramLee.png"
+    },
+    
+    {
+        "name": "Kim Ki Beom",
+        "title": "Software Engineer",
+        "profile": "not yet updated",
+        "image": "KimKiBeom.png"
+    },
+    
+    {
+        "name": "Ikseon Kang",
+        "title": "Management/Product Planning",
+        "profile": "not yet updated",
+        "image": "IkseonKang.png"
+    },
+    
+    {
+        "name": "Wonseop Lee",
+        "title": "S/W Engineer",
         "profile": "TBD",
-        "image": "dummy.jpg"
-    }
+        "image": "wonseoplee.png"
+    }, 
+
+    {
+        "name": "Yangsu Kim",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "YangsuKim.png"
+    },
+
+        
+    {
+        "name": "Michael Hyung Heo",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "HyungHeo.png"
+    },
+    
+    {
+        "name": "Gamin Park",
+        "title": "UI designer",
+        "profile": "not yet updated",
+        "image": "GaminPark.png"
+    },
+     
+    {
+        "name": "Taehoon Lee",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "TaehoonLee.png"
+    },
+    
+    {
+        "name": "Jeong I Byun",
+        "title": "B2B Sales and Marketing",
+        "profile": "not yet updated",
+        "image": "JeongIByun.png"
+    },
+ 
+    
+    {
+        "name": "Taks Hyungtak Choi",
+        "title": "S/W Engineer",
+        "profile": "not yet updated",
+        "image": "TaksHyungtakChoi.png"
+    },
+    
+    {
+        "name": "SangYangHeo",
+        "title": "SW Engineer",
+        "profile": "not yet updated",
+        "image": "SangYangHeo.png"
+    },
+
+     {
+        "name": "Jin Seo",
+        "title": "Sales & Marketing",
+        "profile": "not yet updated",
+        "image": "JinSeo.png"
+    },
+    
+    {
+        "name": "Gina Hahm",
+        "title": "Management",
+        "profile": "not yet updated",
+        "image": "GinaHahm.png"
+    },
+    
+    {
+        "name": "Wanhyoung Lee",
+        "title": "Sales & Marketing",
+        "profile": "not yet updated",
+        "image": "WanhyoungLee.png"
+    } 
 ]
