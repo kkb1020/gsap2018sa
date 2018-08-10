@@ -1,7 +1,7 @@
 (function ($) {
   "use strict"; // Start of use strict
 
-  $.getJSON("./data/local.json", function (data) {
+  $.getJSON("./data/local1.json", function (data) {
     var out = "";
     var i;
     for (i = 0; i < data.length; i++) {
