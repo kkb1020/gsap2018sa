@@ -21,7 +21,8 @@ a:hover {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  /*color: #fed136 !important;*/
+  color: #00d263 !important;
 }
 
 h1,
@@ -79,13 +80,17 @@ section h3.section-subheading-nobottommargin {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #00d263;
+  border-color: #00d263;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  /*
   background-color: #fec810 !important;
   border-color: #fec810 !important;
+  */
+  background-color: #00C93D !important;
+  border-color: #00C93D !important;
   color: white;
 }
 
@@ -94,12 +99,14 @@ section h3.section-subheading-nobottommargin {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  /* background: #fed136; */
+  background: #00d263;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  /* background: #fed136; */
+  background: #00d263;
   text-shadow: none;
 }
 
@@ -112,7 +119,8 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #212529;
+  /*background-color: #212529;*/
+  background-color: #2cbb70;
 }
 
 #mainNav .navbar-toggler {
